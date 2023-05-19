@@ -6,8 +6,8 @@
 - 👋 Hi, I’m @eromansan
 - 👀 I’m interested in learning about anything.
 - 🌱 I’m currently learning microservices and integration continue.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m working on <a href="https://www.elpuertodeliverpool.mx/">Liverpoool</a>
+- 📫 How to reach me eroman@liverpool.com.mx
 
 <!---
 eromansan/eromansan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
